@@ -1,0 +1,5 @@
+path: /home/wangchao/catkin_ws/src/plumbing_pub_sub/YOLO/helu_desert
+train: images/train
+val: images/val
+names:
+  0: hulu
